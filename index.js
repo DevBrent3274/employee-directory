@@ -1,7 +1,7 @@
 // node modules
 const inquirer = require("inquirer");
 const fs = require("fs");
-// const generateDirectory = require("./src/page-conatiner.js");
+const generateDirectory = require("./src/page-conatiner.js");
 
 // lib modules
 const Engineer = require("./lib/Engineer");
