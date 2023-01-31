@@ -1,12 +1,14 @@
-# Employee Directory Just show a change
+# Employee Directory
+
+# Note: work in progress.  I have questions prompting, testing drawn up and a shell of an html to buld off of.  I understand this is not enough and will have to continue to work on it and resubmit.  Thank you.
 
 ## Description
 
 This application generates an employee directory using information provided by user through prompts in the terminal.
 
 ## Stack
-- Node.js & Inquirer - to generate prompts to user in terminal
-- Jest - to run TDD
+- Node.js & Inquirer - to generate prompts to user in terminal and relate files to one another
+- Jest - to run test driven development
 - HTML, JavaScript, CSS
 
 ## User Story
@@ -49,16 +51,14 @@ The styling in the image is just an example, so feel free to add your own.
 
 ## Installation
 
-### Use following in command line to run application:
+### Use the following in command line to run application:
 
 ```bash
 node index.js
 ```
 ## Credits & Resources
 
-Bootstrap, Font Awesome
-
-**Important**: Make sure that you remove `dist` from the `.gitignore` file so that Git will track this folder and include it when you push up to your application's repository.
+### Bootstrap, Font Awesome
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
