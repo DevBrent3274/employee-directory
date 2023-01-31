@@ -43,11 +43,11 @@ THEN I exit the application, and the HTML is generated
 
 ## Mock-Up
 
-The following image shows a mock-up of the generated HTML’s appearance and functionality:
+The following image shows a mock-up of the programs appearance and functionality
+click the link to go to video:
 
-![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./assets/10-object-oriented-programming-homework-demo.png)
+[![Watch the video](https://user-images.githubusercontent.com/115671558/215641385-bd6b345f-6d5d-4a30-af18-1d23a5bc4224.png)](https://drive.google.com/file/d/1m8G07eFFiMWb_L9OTLsapQAJdUx6re4g/view)
 
-The styling in the image is just an example, so feel free to add your own.
 
 ## Installation
 
