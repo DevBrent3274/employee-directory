@@ -46,7 +46,7 @@ THEN I exit the application, and the HTML is generated
 The following image shows a mock-up of the programs appearance and functionality
 click the link to go to video:
 
-[![Watch the video](https://user-images.githubusercontent.com/115671558/215647924-8e86b845-9969-4079-8f34-b21e976a810b.MP4)](https://drive.google.com/file/d/1m8G07eFFiMWb_L9OTLsapQAJdUx6re4g/view)
+[![Watch the video](https://user-images.githubusercontent.com/115671558/215647924-8e86b845-9969-4079-8f34-b21e976a810b.png)](https://drive.google.com/file/d/1m8G07eFFiMWb_L9OTLsapQAJdUx6re4g/view)
 
 
 ## Installation
