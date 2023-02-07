@@ -1,7 +1,5 @@
 # Employee Directory
 
-# Note: work in progress.  I have questions prompting, testing drawn up and a shell of an html to build off of.  I understand this is not enough and will have to continue to work on it and resubmit.  Thank you.
-
 ## Description
 
 This application generates an employee directory using information provided by user through prompts in the terminal.
@@ -43,9 +41,9 @@ THEN I exit the application, and the HTML is generated
 
 ## Mock-Up
 
-click the link to go to video:
+![Screen Shot](/assets/screenshot.png)
 
-[![Watch the video](https://user-images.githubusercontent.com/115671558/215647924-8e86b845-9969-4079-8f34-b21e976a810b.png)](https://drive.google.com/file/d/1m8G07eFFiMWb_L9OTLsapQAJdUx6re4g/view)
+## [Video Walk Through](https://drive.google.com/file/d/1hDno6ccevJ7osvcT-Ix9K3ufLgPIIZ5j/view)
 
 
 ## Installation

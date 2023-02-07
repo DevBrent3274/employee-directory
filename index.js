@@ -1,7 +1,7 @@
 // node modules
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateDirectory = require("./src/page-conatiner.js");
+const generateDirectory = require("./src/page-container.js");
 
 // lib modules
 const Engineer = require("./lib/Engineer");
@@ -94,7 +94,6 @@ const questions = async () => {
    }
 };  
 
-//  ask questions function here!! and 
 //  prompt what to do next, add new member 
 //  or create directory
 async function askQuestions() {
@@ -109,7 +108,7 @@ async function askQuestions() {
         message: "Would you like to add a new member or create a directory?"
       }
     ])
-    if (addMemberAns.addMemebr === "Add a new member") {
+    if (addMemberAns.addMember === "Add a new member") {
       return askQuestions()
     }
     return createDirectory()
@@ -118,11 +117,11 @@ async function askQuestions() {
 // Get answers from user in the command line
 askQuestions();
 
-// Create the directory and then populate with data
+// Create the directory and then build html page
 function createDirectory() {
   fs.writeFileSync(
     "./dist/index.html",
     generateDirectory(newStaffData),
-    "wtf-8"
+    "utf-8"
   )
 }

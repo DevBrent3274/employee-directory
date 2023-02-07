@@ -1,5 +1,4 @@
 // To generate the html dynamically
-// node modules
 const generateDirectory = (team) => {
   // create the manager html
   const generateManager = (manager) => {
